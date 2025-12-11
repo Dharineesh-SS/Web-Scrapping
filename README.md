@@ -33,7 +33,7 @@ A Python-based web scraping tool designed to extract product data from e-commerc
 
 1. Clone the repository:
     ```bash
-   git clone [https://github.com/harinvc/web-scrapping-.git](https://github.com/harinvc/web-scrapping-.git)
+   git clone [https://github.com/Dharineesh-SS/Web-Scrapping-.git](https://github.com/Dharineesh-SS/Web-Scrapping-.git)
    cd web-scrapping-
    ```bash
    git clone [https://github.com/harinvc/web-scrapping-.git](https://github.com/harinvc/web-scrapping-.git)
